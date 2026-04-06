@@ -28,3 +28,6 @@ However, due to time constraints, some systems have been **simplified** compared
 
 ## Project Status
 A **functional but incomplete version**, designed as a base for further iteration rather than a final experience.
+
+## NEW!! Mad Hatter Tea-Party Mini-Game
+At the tea party, the Mad Hatter challenges Alice to a classic shell game, hiding a ball under three tea cups and shuffling them. If Alice fails to find the ball, she loses a bit of her sanity, and three cards from her deck are removed due to madness. This mini-game adds a risk-and-reward mechanic within the narrative, reinforcing the precarious balance of Alice’s mental state while providing a whimsical, interactive diversion from the main loop.
